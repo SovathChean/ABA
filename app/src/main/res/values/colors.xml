@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="toolbar">#035c8c</color>
+    <color name="body">#1a4b66</color>
+    <color name="aba_text">#ffffff</color>
+    <color name="sub_footer">#3bf5f5</color>
+    <color name="footer">#f73d2d</color>
+</resources>
