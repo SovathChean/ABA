@@ -8,4 +8,5 @@
     <color name="aba_text">#ffffff</color>
     <color name="sub_footer">#3bf5f5</color>
     <color name="footer">#f73d2d</color>
+    <color name="text_color">#ffffff</color>
 </resources>

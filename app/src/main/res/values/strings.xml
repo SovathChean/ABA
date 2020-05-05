@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">ABA</string>
     <string name="aba_mobile">ABA Mobile</string>
+    <string name="account">Account</string>
+    <string name="transfer_money">Transfers</string>
+    <string name="payments">Payments</string>
+    <string name="deposit">Deposit</string>
+    <string name="e_cash">Cash to ABA</string>
+    <string name="virtual_card">Virtual Card</string>
+    <string name="qr_code">QR Code</string>
+    <string name="loans">Loans</string>
+    <string name="locator">ABA locator</string>
+    <string name="quick_transfer">Quick Transfer</string>
+    <string name="qoute_transfer">Create your templates here to make transfer quicker</string>
+    <string name="quick_payment">Quick Payment</string>
+    <string name="qoute_payment">Paying your bills with templates is faster</string>
 </resources>
